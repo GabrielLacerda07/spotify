@@ -1,4 +1,5 @@
-#spotify
+# Spotify
 
-Clone do Spotify criado com apenas HTML, CSS e bootstrap
-<a href="">https://gabriellacerda07.github.io/spotify/</a>
+Clone do Spotify: https://gabriellacerda07.github.io/spotify/
+
+Tecnologias usadas: HTML, CSS e Bootstrap
